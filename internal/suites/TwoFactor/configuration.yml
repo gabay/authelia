@@ -3,8 +3,6 @@
 #                Authelia minimal configuration               #
 ###############################################################
 
-cache_directory: '/var/cache/authelia'
-
 theme: auto
 
 server:
